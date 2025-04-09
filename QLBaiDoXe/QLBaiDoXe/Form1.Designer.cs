@@ -55,7 +55,7 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(515, 237);
+            this.button3.Location = new System.Drawing.Point(344, 269);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(75, 23);
             this.button3.TabIndex = 2;
@@ -65,7 +65,7 @@
             // checkBox1
             // 
             this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(144, 243);
+            this.checkBox1.Location = new System.Drawing.Point(119, 335);
             this.checkBox1.Name = "checkBox1";
             this.checkBox1.Size = new System.Drawing.Size(80, 17);
             this.checkBox1.TabIndex = 3;
